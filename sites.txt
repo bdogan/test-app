@@ -1,4 +1,4 @@
-http://www.milliyet.com.tr/
+://www.milliyet.com.tr/
 https://github.com/
 https://teknoseyir.com/
 https://www.google.com.tr/
