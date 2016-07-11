@@ -42,7 +42,7 @@
       <tbody>
         <?php foreach ($kisiler as $key => $kisi) { ?>
           <tr>
-            <td><?php echo $kisi['adi']; ?></td>
+            <td><a href="goster.php?index=<?php echo $key; ?>"><?php echo $kisi['adi']; ?></a></td>
             <td><?php echo $kisi['soyadi']; ?></td>
             <td><?php echo $kisi['yas']; ?></td>
           </tr>
